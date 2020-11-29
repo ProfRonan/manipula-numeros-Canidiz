@@ -9,7 +9,9 @@ def main():
     A1 = 2 * A + 0.5 * B
     B1 = 3 * A + C 
     C1 = C ** 3 
-    print(f"Valor da opção 1: {A1}.\nValor da opção 2: {B1}.\nValor da opção 3: {C1}.")
+    print(f"valor da opção 1: {A1}.")
+    print(f"valor da opção 2: {B1}.")
+    print(f"valor da opção 3: {C1}.")
 
 if __name__ == '__main__':
     main()
