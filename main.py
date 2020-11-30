@@ -6,7 +6,7 @@ def main():
     A = int(input("Digite um número inteiro\n"))
     B = int(input("Digite um número inteiro\n"))
     C = float(input("Digite um número real\n"))
-    A1 = 2 * A + 0.5 * B
+    A1 = 2 * A * 0.5 * B
     B1 = 3 * A + C 
     C1 = C ** 3 
     print(f"valor da opção 1: {A1}.")
